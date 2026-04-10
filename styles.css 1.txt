@@ -1,0 +1,39 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h2,
+h3 {
+    color: #34495e;
+}
+
+.central-image {
+    max-width: 80%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.marquee {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #e74c3c;
+    font-weight: bold;
+}
